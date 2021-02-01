@@ -1,3 +1,5 @@
+[![GitHub Super-Linter](https://github.com/56kyle/<REPOSITORY>/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
+
 ### Hi there 👋
 
 <!--

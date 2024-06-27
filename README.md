@@ -4,10 +4,10 @@
 I'm Kyle, a pretty generalist developer that has done a variety of fullstack work, game modding / developement, and task automation.
 
 #### Favorite Personal Projects
-1. [pychess](https://github.com/56kyle/pychess) - A Chess program written as practice following principles outlined in the book "Clean Code"
-2. [bloons_auto](https://github.com/56kyle/bloons_auto) - An API for playing btd6 (Bloons Tower Defense 6) with Python
-3. [pydm](https://github.com/56kyle/pydm) - (WIP) - A Python package for converting Byond's dm files into Python compatible objects
-4. [goon_parser](https://github.com/56kyle/goon_parser) - The precursor to pydm; A python Package that allows converting static data inside Byond's dm files into json.
+1. [pytest-static](https://github.com/56kyle/pytest-static) - My pride and ~joy~ suffering; A Pytest Plugin that allows parametrizing tests using types instead of instance sets.
+2. [hypermodern-python-cookiecutter](https://github.com/56kyle/hypermodern-python-cookiecutter) - My personal fork of the [hypermodern-python-cookiecutter](https://github.com/cjolowicz/cookiecutter-hypermodern-python) that I have improved upon a fair bit.
+3. [pychess](https://github.com/56kyle/pychess) - A Chess program written as practice following principles outlined in the book "Clean Code"
+4. [bloons_auto](https://github.com/56kyle/bloons_auto) - An API for playing btd6 (Bloons Tower Defense 6) with Python
 
 #### Tools/Software I highly recommend
 1. [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) - Adds Vim controls to your web browser. Even if you don't use Vim elsewhere it is super useful.

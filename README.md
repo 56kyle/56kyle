@@ -5,7 +5,7 @@ I'm Kyle, a pretty generalist developer that has done a variety of fullstack wor
 
 #### Favorite Personal Projects
 1. [pytest-static](https://github.com/56kyle/pytest-static) - My pride and ~joy~ suffering; A Pytest Plugin that allows parametrizing tests using types instead of instance sets.
-2. [hypermodern-python-cookiecutter](https://github.com/56kyle/hypermodern-python-cookiecutter) - My personal fork of the [hypermodern-python-cookiecutter](https://github.com/cjolowicz/cookiecutter-hypermodern-python) that I have improved upon a fair bit.
+2. [cookiecutter-hypermodern-python](https://github.com/56kyle/cookiecutter-hypermodern-python) - My personal fork of the [hypermodern-python-cookiecutter](https://github.com/cjolowicz/cookiecutter-hypermodern-python) that I have improved upon a fair bit.
 3. [pychess](https://github.com/56kyle/pychess) - A Chess program written as practice following principles outlined in the book "Clean Code"
 4. [bloons_auto](https://github.com/56kyle/bloons_auto) - An API for playing btd6 (Bloons Tower Defense 6) with Python
 

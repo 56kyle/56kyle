@@ -6,7 +6,6 @@ I'm Kyle, a pretty generalist developer that has done a variety of fullstack wor
 #### Favorite Personal Projects
 1. [cookiecutter-robust-python](https://github.com/56kyle/cookiecutter-robust-python) - My attempt at making a worthy successor to [cookiecutter-hypermodern-python](https://github.com/cjolowicz/cookiecutter-hypermodern-python) that is built for adapting to changes.
 2. [pytest-static](https://github.com/56kyle/pytest-static) - My pride and ~joy~ suffering; A Pytest Plugin that allows parametrizing tests using types instead of instance sets.
-3. [cookiecutter-hypermodern-python](https://github.com/56kyle/cookiecutter-hypermodern-python) - My personal fork of the [cookiecutter-hypermodern-python](https://github.com/cjolowicz/cookiecutter-hypermodern-python) that I have improved upon a fair bit.
 
 #### Tools/Software I highly recommend
 1. [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) - Adds Vim controls to your web browser. Even if you don't use Vim elsewhere it is super useful.

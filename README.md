@@ -8,6 +8,15 @@ I'm Kyle, a pretty generalist developer that has done a variety of fullstack wor
 2. [pytest-static](https://github.com/56kyle/pytest-static) - My pride and ~joy~ suffering; A Pytest Plugin that allows parametrizing tests using types instead of instance sets.
 
 #### Tools/Software I highly recommend
+
+###### Python
+1. [fsspec](https://github.com/fsspec/filesystem_spec) - Abstracts file handling in a way that enables handling remote files on almost any backend the same way you handle local files. No dependencies by default.
+2. [secretspec](https://github.com/cachix/secretspec) - Abstracts secret handling in what seems to be the objectively best way, while having SDK's for most languages and backends for most secret providers.
+3. [platformdirs](https://github.com/tox-dev/platformdirs) - Provides OS tailored filesystem locations for common User and System scoped storage considerations.
+4. [maturin](https://github.com/PyO3/maturin) - Python/Rust interoperability that works well together. Allows for starting in Python and only moving the parts that actually need to be performant into rust later on.
+5. [pathlib](https://docs.python.org/3/library/pathlib.html) - Builtin package but I feel it's worth mentioning because every time I see os.path it fills me with sadness. It's basically OS agnostic path handling.
+
+###### General
 1. [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) - Adds Vim controls to your web browser. Even if you don't use Vim elsewhere it is super useful.
 2. [Selenium IDE](https://www.selenium.dev/selenium-ide/) - Selenium is already nice, but there is a browser IDE that they have which allows you to record actions and then export them to code in your language of choice.
 3. [Json Resume](https://jsonresume.org/getting-started/) - A schema for your resume that allows for building and exporting into various themes with minimal hassle.

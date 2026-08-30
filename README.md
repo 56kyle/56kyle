@@ -10,7 +10,7 @@ I'm Kyle, a pretty generalist developer that has done a variety of fullstack wor
 #### Learning Resources I recommend
 1. [Naming Things in Code](https://www.youtube.com/watch?v=-J3wNP6u5YU) by [CodeAesthetic](https://www.youtube.com/@CodeAesthetic) (and honestly most other videos by them)
 2. [How to write the perfect function](https://www.youtube.com/watch?v=2OMRWPOSw9s) by (Logan Smith)[https://www.youtube.com/@_noisecode] (Summarizes two other fantastic talks it references, worth watching all of them)
-3. [Notes on structured programming](https://www.cs.utexas.edu/~EWD/transcriptions/EWD02xx/EWD249/EWD249.html) by Dijkstra. Written in 1969 and is the reasoning that inspired context specific development patterns over the years.
+3. [Notes on structured programming](https://www.cs.utexas.edu/~EWD/transcriptions/EWD02xx/EWD249/EWD249.html) by Dijkstra. Written in 1969 and is the reasoning that inspired many context specific development patterns over the years.
 
 #### Tools/Software I highly recommend
 
